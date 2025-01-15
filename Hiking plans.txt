@@ -1,3 +1,6 @@
 Hiking plans
 Let's go hiking
 Ece wants to go to Vermont. 
+
+# LH edit
+Lansing wants to go to Texas.
